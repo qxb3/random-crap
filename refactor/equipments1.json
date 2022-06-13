@@ -1,0 +1,1922 @@
+[
+    {
+        "name": "Broken Ring",
+        "requirements": "Level 0",
+        "skill_type": "",
+        "stats": [
+            "Armour: 0",
+            "Minumum stat: 1",
+            "Maximum stat: 2"
+        ],
+        "drops_from": [
+            "Troll MageTroll RangerTroll Knight"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Liam's Blessing",
+        "requirements": "Level 0",
+        "skill_type": "",
+        "stats": [
+            "Armour: 0",
+            "Minumum stat: 0",
+            "Maximum stat: 0"
+        ],
+        "drops_from": [
+            "Das Bug"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Plain Ring",
+        "requirements": "Level 5",
+        "skill_type": "",
+        "stats": [
+            "Armour: 0",
+            "Minumum stat: 2",
+            "Maximum stat: 4"
+        ],
+        "drops_from": [
+            "CyclopsSpiderDeerstalker"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Dragon Ring",
+        "requirements": "Level 10",
+        "skill_type": "",
+        "stats": [
+            "Armour: 0",
+            "Minumum stat: 3",
+            "Maximum stat: 6"
+        ],
+        "drops_from": [
+            "Slime"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Gold Ring",
+        "requirements": "Level 20",
+        "skill_type": "",
+        "stats": [
+            "Armour: 0",
+            "Minumum stat: 4",
+            "Maximum stat: 8"
+        ],
+        "drops_from": [
+            "Imp"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Burning Ring",
+        "requirements": "Level 30",
+        "skill_type": "",
+        "stats": [
+            "Armour: 0",
+            "Minumum stat: 5",
+            "Maximum stat: 10"
+        ],
+        "drops_from": [
+            "Harbinger"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Elven Ring",
+        "requirements": "Level 40",
+        "skill_type": "",
+        "stats": [
+            "Armour: 0",
+            "Minumum stat: 6",
+            "Maximum stat: 12"
+        ],
+        "drops_from": [
+            "Ghost"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Crystal Ring",
+        "requirements": "Level 50",
+        "skill_type": "",
+        "stats": [
+            "Armour: 0",
+            "Minumum stat: 7",
+            "Maximum stat: 14"
+        ],
+        "drops_from": [
+            "Orc"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Mana Stone",
+        "requirements": "Level 60",
+        "skill_type": "",
+        "stats": [
+            "Armour: 0",
+            "Minumum stat: 8",
+            "Maximum stat: 16"
+        ],
+        "drops_from": [
+            "Orc Warrior"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Amber Ring",
+        "requirements": "Level 70",
+        "skill_type": "",
+        "stats": [
+            "Armour: 0",
+            "Minumum stat: 9",
+            "Maximum stat: 18"
+        ],
+        "drops_from": [
+            "Hero"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Tarnished Necklace",
+        "requirements": "Level 5",
+        "skill_type": "",
+        "stats": [
+            "Armour: 0",
+            "Minumum stat: 1",
+            "Maximum stat: 2"
+        ],
+        "drops_from": [
+            "Troll Warlord"
+        ],
+        "type": "Necklace",
+        "vocation": ""
+    },
+    {
+        "name": "Ancient Necklace",
+        "requirements": "Level 10",
+        "skill_type": "",
+        "stats": [
+            "Armour: 0",
+            "Minumum stat: 2",
+            "Maximum stat: 4"
+        ],
+        "drops_from": [
+            "Firewyrm"
+        ],
+        "type": "Necklace",
+        "vocation": ""
+    },
+    {
+        "name": "Dragon Necklace",
+        "requirements": "Level 20",
+        "skill_type": "",
+        "stats": [
+            "Armour: 0",
+            "Minumum stat: 3",
+            "Maximum stat: 6"
+        ],
+        "drops_from": [
+            "Slime"
+        ],
+        "type": "Necklace",
+        "vocation": ""
+    },
+    {
+        "name": "Jeweled Necklace",
+        "requirements": "Level 30",
+        "skill_type": "",
+        "stats": [
+            "Armour: 0",
+            "Minumum stat: 4",
+            "Maximum stat: 8"
+        ],
+        "drops_from": [
+            "Imp Mage"
+        ],
+        "type": "Necklace",
+        "vocation": ""
+    },
+    {
+        "name": "Heroic Amulet",
+        "requirements": "Level 40",
+        "skill_type": "",
+        "stats": [
+            "Armour: 0",
+            "Minumum stat: 5",
+            "Maximum stat: 10"
+        ],
+        "drops_from": [
+            "Ice Slime"
+        ],
+        "type": "Necklace",
+        "vocation": ""
+    },
+    {
+        "name": "Power Amulet",
+        "requirements": "Level 50",
+        "skill_type": "",
+        "stats": [
+            "Armour: 0",
+            "Minumum stat: 6",
+            "Maximum stat: 12"
+        ],
+        "drops_from": [
+            "Hellhound"
+        ],
+        "type": "Necklace",
+        "vocation": ""
+    },
+    {
+        "name": "Demon Tooth",
+        "requirements": "Level 60",
+        "skill_type": "",
+        "stats": [
+            "Armour: 0",
+            "Minumum stat: 7",
+            "Maximum stat: 14"
+        ],
+        "drops_from": [
+            "Bandit"
+        ],
+        "type": "Necklace",
+        "vocation": ""
+    },
+    {
+        "name": "Hellborn Amulet",
+        "requirements": "Level 70",
+        "skill_type": "",
+        "stats": [
+            "Armour: 0",
+            "Minumum stat: 8",
+            "Maximum stat: 16"
+        ],
+        "drops_from": [
+            "Unobtainable"
+        ],
+        "type": "Necklace",
+        "vocation": ""
+    },
+    {
+        "name": "Bandana",
+        "requirements": "Level 0",
+        "skill_type": "",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 0",
+            "Maximum stat: 0"
+        ],
+        "drops_from": [
+            "TrollTroll Mage"
+        ],
+        "type": "Helmet",
+        "vocation": ""
+    },
+    {
+        "name": "Sturdy Helmet",
+        "requirements": "Level 5",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 1",
+            "Maximum stat: 3"
+        ],
+        "drops_from": [
+            "Troll Knight"
+        ],
+        "type": "Helmet",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Ranger Cap",
+        "requirements": "Level 5",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 1",
+            "Maximum stat: 3"
+        ],
+        "drops_from": [
+            "Troll Ranger"
+        ],
+        "type": "Helmet",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Novice Cap",
+        "requirements": "Level 5",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 1",
+            "Maximum stat: 3"
+        ],
+        "drops_from": [
+            "Troll MageTroll Warlord"
+        ],
+        "type": "Helmet",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Iron Helmet",
+        "requirements": "Level 10",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 2",
+            "Maximum stat: 6"
+        ],
+        "drops_from": [
+            "Widow"
+        ],
+        "type": "Helmet",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Linothorax Helmet",
+        "requirements": "Level 10",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 2",
+            "Maximum stat: 6"
+        ],
+        "drops_from": [
+            "Spider"
+        ],
+        "type": "Helmet",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Traveller's Hat",
+        "requirements": "Level 10",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 2",
+            "Maximum stat: 6"
+        ],
+        "drops_from": [
+            "Cyclops"
+        ],
+        "type": "Helmet",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Copper Helmet",
+        "requirements": "Level 20",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 3",
+            "Maximum stat: 9"
+        ],
+        "drops_from": [
+            "Firewyrm"
+        ],
+        "type": "Helmet",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Flaming Hood",
+        "requirements": "Level 20",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 3",
+            "Maximum stat: 9"
+        ],
+        "drops_from": [
+            "Defiler"
+        ],
+        "type": "Helmet",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Heroic Hat",
+        "requirements": "Level 20",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 3",
+            "Maximum stat: 9"
+        ],
+        "drops_from": [
+            "Defiler"
+        ],
+        "type": "Helmet",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Plate Helmet",
+        "requirements": "Level 30",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 4",
+            "Maximum stat: 12"
+        ],
+        "drops_from": [
+            "Imp Ranger"
+        ],
+        "type": "Helmet",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Sulphur Mask",
+        "requirements": "Level 30",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 4",
+            "Maximum stat: 12"
+        ],
+        "drops_from": [
+            "Imp"
+        ],
+        "type": "Helmet",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Tin Helmet",
+        "requirements": "Level 30",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 4",
+            "Maximum stat: 12"
+        ],
+        "drops_from": [
+            "Imp Mage"
+        ],
+        "type": "Helmet",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Chain Helmet",
+        "requirements": "Level 40",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 4",
+            "Minumum stat: 5",
+            "Maximum stat: 15"
+        ],
+        "drops_from": [
+            "Ghost"
+        ],
+        "type": "Helmet",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Nernai Hat",
+        "requirements": "Level 40",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 5",
+            "Maximum stat: 15"
+        ],
+        "drops_from": [
+            "Fire SlimeGiant Slug"
+        ],
+        "type": "Helmet",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Soldier Helmet",
+        "requirements": "Level 40",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 5",
+            "Maximum stat: 15"
+        ],
+        "drops_from": [
+            "Fire Slime"
+        ],
+        "type": "Helmet",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Silver Helmet",
+        "requirements": "Level 50",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 5",
+            "Minumum stat: 6",
+            "Maximum stat: 18"
+        ],
+        "drops_from": [
+            "Sorcerer"
+        ],
+        "type": "Helmet",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Wizard Hood",
+        "requirements": "Level 50",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 6",
+            "Maximum stat: 18"
+        ],
+        "drops_from": [
+            "Revenant"
+        ],
+        "type": "Helmet",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Elven Hat",
+        "requirements": "Level 50",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 6",
+            "Maximum stat: 18"
+        ],
+        "drops_from": [
+            "Revenant"
+        ],
+        "type": "Helmet",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Platinum Helmet",
+        "requirements": "Level 60",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 6",
+            "Minumum stat: 7",
+            "Maximum stat: 21"
+        ],
+        "drops_from": [
+            "Wild Soldier"
+        ],
+        "type": "Helmet",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Indigo Hat",
+        "requirements": "Level 60",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 7",
+            "Maximum stat: 21"
+        ],
+        "drops_from": [
+            "Bandit"
+        ],
+        "type": "Helmet",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Pearl Helmet",
+        "requirements": "Level 60",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 4",
+            "Minumum stat: 7",
+            "Maximum stat: 21"
+        ],
+        "drops_from": [
+            "Orc Worker"
+        ],
+        "type": "Helmet",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Emerald Helmet",
+        "requirements": "Level 70",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 7",
+            "Minumum stat: 8",
+            "Maximum stat: 24"
+        ],
+        "drops_from": [
+            "Priestess"
+        ],
+        "type": "Helmet",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Arnisium Hat",
+        "requirements": "Level 70",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 8",
+            "Maximum stat: 24"
+        ],
+        "drops_from": [
+            "Slimespitter"
+        ],
+        "type": "Helmet",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Spiked Helmet",
+        "requirements": "Level 70",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 4",
+            "Minumum stat: 8",
+            "Maximum stat: 24"
+        ],
+        "drops_from": [
+            "Bloodseeker"
+        ],
+        "type": "Helmet",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Granite Helmet",
+        "requirements": "Level 80",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 8",
+            "Minumum stat: 9",
+            "Maximum stat: 27"
+        ],
+        "drops_from": [
+            "Unobtainable"
+        ],
+        "type": "Helmet",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Crystal Mask",
+        "requirements": "Level 80",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 9",
+            "Maximum stat: 27"
+        ],
+        "drops_from": [
+            "Unobtainable"
+        ],
+        "type": "Helmet",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Sentinel Helmet",
+        "requirements": "Level 80",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 5",
+            "Minumum stat: 9",
+            "Maximum stat: 27"
+        ],
+        "drops_from": [
+            "Unobtainable"
+        ],
+        "type": "Helmet",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Old Gloves",
+        "requirements": "Level 0",
+        "skill_type": "",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 0",
+            "Maximum stat: 0"
+        ],
+        "drops_from": [
+            "Troll"
+        ],
+        "type": "Gloves",
+        "vocation": ""
+    },
+    {
+        "name": "Ragged Gloves",
+        "requirements": "Level 5",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 1",
+            "Maximum stat: 3"
+        ],
+        "drops_from": [
+            "Troll Mage"
+        ],
+        "type": "Gloves",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Sturdy Gloves",
+        "requirements": "Level 5",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 1",
+            "Maximum stat: 3"
+        ],
+        "drops_from": [
+            "Troll Knight"
+        ],
+        "type": "Gloves",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Ranger Gloves",
+        "requirements": "Level 5",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 1",
+            "Maximum stat: 3"
+        ],
+        "drops_from": [
+            "Troll Ranger"
+        ],
+        "type": "Gloves",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Traveller's Gloves",
+        "requirements": "Level 10",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 2",
+            "Maximum stat: 6"
+        ],
+        "drops_from": [
+            "Spider"
+        ],
+        "type": "Gloves",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Linothorax Gloves",
+        "requirements": "Level 10",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 2",
+            "Maximum stat: 6"
+        ],
+        "drops_from": [
+            "Cyclops"
+        ],
+        "type": "Gloves",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Iron Gloves",
+        "requirements": "Level 10",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 2",
+            "Maximum stat: 6"
+        ],
+        "drops_from": [
+            "Spider"
+        ],
+        "type": "Gloves",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Copper Gloves",
+        "requirements": "Level 20",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 3",
+            "Maximum stat: 9"
+        ],
+        "drops_from": [
+            "Defiler"
+        ],
+        "type": "Gloves",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Flaming Gloves",
+        "requirements": "Level 20",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 3",
+            "Maximum stat: 9"
+        ],
+        "drops_from": [
+            "Slime"
+        ],
+        "type": "Gloves",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Heroic Gloves",
+        "requirements": "Level 20",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 3",
+            "Maximum stat: 9"
+        ],
+        "drops_from": [
+            "Felwalker"
+        ],
+        "type": "Gloves",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Plate Gloves",
+        "requirements": "Level 30",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 4",
+            "Maximum stat: 12"
+        ],
+        "drops_from": [
+            "Imp"
+        ],
+        "type": "Gloves",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Sulphur Gloves",
+        "requirements": "Level 30",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 4",
+            "Maximum stat: 12"
+        ],
+        "drops_from": [
+            "Imp Knight"
+        ],
+        "type": "Gloves",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Tin Gloves",
+        "requirements": "Level 30",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 4",
+            "Maximum stat: 12"
+        ],
+        "drops_from": [
+            "Imp Knight"
+        ],
+        "type": "Gloves",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Chain Gloves",
+        "requirements": "Level 40",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 4",
+            "Minumum stat: 5",
+            "Maximum stat: 15"
+        ],
+        "drops_from": [
+            "Fire Slime"
+        ],
+        "type": "Gloves",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Nernai Gloves",
+        "requirements": "Level 40",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 5",
+            "Maximum stat: 15"
+        ],
+        "drops_from": [
+            "Ice Slime"
+        ],
+        "type": "Gloves",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Silver Gloves",
+        "requirements": "Level 50",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 5",
+            "Minumum stat: 6",
+            "Maximum stat: 18"
+        ],
+        "drops_from": [
+            "Hellhound"
+        ],
+        "type": "Gloves",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Caster Gloves",
+        "requirements": "Level 50",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 6",
+            "Maximum stat: 18"
+        ],
+        "drops_from": [
+            "Orc"
+        ],
+        "type": "Gloves",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Elven Gloves",
+        "requirements": "Level 50",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 6",
+            "Maximum stat: 18"
+        ],
+        "drops_from": [
+            "Sorcerer"
+        ],
+        "type": "Gloves",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Platinum Gloves",
+        "requirements": "Level 60",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 6",
+            "Minumum stat: 7",
+            "Maximum stat: 21"
+        ],
+        "drops_from": [
+            "Orc Worker"
+        ],
+        "type": "Gloves",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Indigo Gloves",
+        "requirements": "Level 60",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 7",
+            "Maximum stat: 21"
+        ],
+        "drops_from": [
+            "Unobtainable"
+        ],
+        "type": "Gloves",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Pearl Gloves",
+        "requirements": "Level 60",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 4",
+            "Minumum stat: 7",
+            "Maximum stat: 21"
+        ],
+        "drops_from": [
+            "Thief"
+        ],
+        "type": "Gloves",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Emerald Gloves",
+        "requirements": "Level 70",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 7",
+            "Minumum stat: 8",
+            "Maximum stat: 24"
+        ],
+        "drops_from": [
+            "Bloodseeker"
+        ],
+        "type": "Gloves",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Arnisium Gloves",
+        "requirements": "Level 70",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 8",
+            "Maximum stat: 24"
+        ],
+        "drops_from": [
+            "Shambler"
+        ],
+        "type": "Gloves",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Spiked Gloves",
+        "requirements": "Level 70",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 4",
+            "Minumum stat: 8",
+            "Maximum stat: 24"
+        ],
+        "drops_from": [
+            "Slimespitter"
+        ],
+        "type": "Gloves",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Granite Gloves",
+        "requirements": "Level 80",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 8",
+            "Minumum stat: 9",
+            "Maximum stat: 27"
+        ],
+        "drops_from": [
+            "Unobtainable"
+        ],
+        "type": "Gloves",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Crystal Gloves",
+        "requirements": "Level 80",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 9",
+            "Maximum stat: 27"
+        ],
+        "drops_from": [
+            "Unobtainable"
+        ],
+        "type": "Gloves",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Sentinel Gloves",
+        "requirements": "Level 80",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 5",
+            "Minumum stat: 9",
+            "Maximum stat: 27"
+        ],
+        "drops_from": [
+            "Unobtainable"
+        ],
+        "type": "Gloves",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Cloth Shirt",
+        "requirements": "Level 0",
+        "skill_type": "",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 0",
+            "Maximum stat: 0"
+        ],
+        "drops_from": [
+            "TrollTroll Warlord"
+        ],
+        "type": "Chest",
+        "vocation": ""
+    },
+    {
+        "name": "Ragged Cloak",
+        "requirements": "Level 5",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 1",
+            "Maximum stat: 3"
+        ],
+        "drops_from": [
+            "Troll Mage"
+        ],
+        "type": "Chest",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Leather Vest",
+        "requirements": "Level 5",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 1",
+            "Maximum stat: 3"
+        ],
+        "drops_from": [
+            "Troll Ranger"
+        ],
+        "type": "Chest",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Belted Armour",
+        "requirements": "Level 5",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 1",
+            "Maximum stat: 3"
+        ],
+        "drops_from": [
+            "Troll Knight"
+        ],
+        "type": "Chest",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Traveller's Gown",
+        "requirements": "Level 10",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 2",
+            "Maximum stat: 6"
+        ],
+        "drops_from": [
+            "Deerstalker"
+        ],
+        "type": "Chest",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Linothorax Chest",
+        "requirements": "Level 10",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 2",
+            "Maximum stat: 6"
+        ],
+        "drops_from": [
+            "Widow"
+        ],
+        "type": "Chest",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Iron Armour",
+        "requirements": "Level 10",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 2",
+            "Maximum stat: 6"
+        ],
+        "drops_from": [
+            "Cyclops"
+        ],
+        "type": "Chest",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Copper Armour",
+        "requirements": "Level 20",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 3",
+            "Maximum stat: 9"
+        ],
+        "drops_from": [
+            "Slime"
+        ],
+        "type": "Chest",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Heroic Cloak",
+        "requirements": "Level 20",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 3",
+            "Maximum stat: 9"
+        ],
+        "drops_from": [
+            "Firewyrm"
+        ],
+        "type": "Chest",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Flaming Cape",
+        "requirements": "Level 20",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 3",
+            "Maximum stat: 9"
+        ],
+        "drops_from": [
+            "Felwalker"
+        ],
+        "type": "Chest",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Plate Armour",
+        "requirements": "Level 30",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 4",
+            "Maximum stat: 12"
+        ],
+        "drops_from": [
+            "Imp Knight"
+        ],
+        "type": "Chest",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Sulphur Robe",
+        "requirements": "Level 30",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 4",
+            "Maximum stat: 12"
+        ],
+        "drops_from": [
+            "Imp Mage"
+        ],
+        "type": "Chest",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Tin Armour",
+        "requirements": "Level 30",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 4",
+            "Maximum stat: 12"
+        ],
+        "drops_from": [
+            "Imp Ranger"
+        ],
+        "type": "Chest",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Chain Armour",
+        "requirements": "Level 40",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 4",
+            "Minumum stat: 5",
+            "Maximum stat: 15"
+        ],
+        "drops_from": [
+            "MinotaurGiant Slug"
+        ],
+        "type": "Chest",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Nernai Vest",
+        "requirements": "Level 40",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 5",
+            "Maximum stat: 15"
+        ],
+        "drops_from": [
+            "Ghost"
+        ],
+        "type": "Chest",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Soldier Armour",
+        "requirements": "Level 40",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 5",
+            "Maximum stat: 15"
+        ],
+        "drops_from": [
+            "Harbinger"
+        ],
+        "type": "Chest",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Silver Armour",
+        "requirements": "Level 50",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 5",
+            "Minumum stat: 6",
+            "Maximum stat: 18"
+        ],
+        "drops_from": [
+            "Revenant"
+        ],
+        "type": "Chest",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Caster Robe",
+        "requirements": "Level 50",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 6",
+            "Maximum stat: 18"
+        ],
+        "drops_from": [
+            "Hellhound"
+        ],
+        "type": "Chest",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Elven Shirt",
+        "requirements": "Level 50",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 6",
+            "Maximum stat: 18"
+        ],
+        "drops_from": [
+            "Behemoth"
+        ],
+        "type": "Chest",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Platinum Armour",
+        "requirements": "Level 60",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 6",
+            "Minumum stat: 7",
+            "Maximum stat: 21"
+        ],
+        "drops_from": [
+            "Shadow"
+        ],
+        "type": "Chest",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Indigo Cape",
+        "requirements": "Level 60",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 7",
+            "Maximum stat: 21"
+        ],
+        "drops_from": [
+            "Hunter"
+        ],
+        "type": "Chest",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Pearl Armour",
+        "requirements": "Level 60",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 4",
+            "Minumum stat: 7",
+            "Maximum stat: 21"
+        ],
+        "drops_from": [
+            "Shadow"
+        ],
+        "type": "Chest",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Emerald Armour",
+        "requirements": "Level 70",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 7",
+            "Minumum stat: 8",
+            "Maximum stat: 24"
+        ],
+        "drops_from": [
+            "Shambler"
+        ],
+        "type": "Chest",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Arnisium Vest",
+        "requirements": "Level 70",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 8",
+            "Maximum stat: 24"
+        ],
+        "drops_from": [
+            "Unobtainable"
+        ],
+        "type": "Chest",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Spiked Armour",
+        "requirements": "Level 70",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 4",
+            "Minumum stat: 8",
+            "Maximum stat: 24"
+        ],
+        "drops_from": [
+            "Orc Berzerk"
+        ],
+        "type": "Chest",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Granite Armour",
+        "requirements": "Level 80",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 8",
+            "Minumum stat: 9",
+            "Maximum stat: 27"
+        ],
+        "drops_from": [
+            "Unobtainable"
+        ],
+        "type": "Chest",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Crystal Cape",
+        "requirements": "Level 80",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 9",
+            "Maximum stat: 27"
+        ],
+        "drops_from": [
+            "Unobtainable"
+        ],
+        "type": "Chest",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Sentinel Armour",
+        "requirements": "Level 80",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 5",
+            "Minumum stat: 9",
+            "Maximum stat: 27"
+        ],
+        "drops_from": [
+            "Unobtainable"
+        ],
+        "type": "Chest",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Sandals",
+        "requirements": "Level 0",
+        "skill_type": "",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 0",
+            "Maximum stat: 0"
+        ],
+        "drops_from": [
+            "Troll"
+        ],
+        "type": "Boots",
+        "vocation": ""
+    },
+    {
+        "name": "Sturdy Boots",
+        "requirements": "Level 5",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 1",
+            "Maximum stat: 3"
+        ],
+        "drops_from": [
+            "Troll Knight"
+        ],
+        "type": "Boots",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Steady Boots",
+        "requirements": "Level 5",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 1",
+            "Maximum stat: 3"
+        ],
+        "drops_from": [
+            "Troll Ranger"
+        ],
+        "type": "Boots",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Ragged Shoes",
+        "requirements": "Level 5",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 1",
+            "Maximum stat: 3"
+        ],
+        "drops_from": [
+            "Troll Mage"
+        ],
+        "type": "Boots",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Linothorax Boots",
+        "requirements": "Level 10",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 2",
+            "Maximum stat: 6"
+        ],
+        "drops_from": [
+            "Deerstalker"
+        ],
+        "type": "Boots",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Traveller's Boots",
+        "requirements": "Level 10",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 2",
+            "Maximum stat: 6"
+        ],
+        "drops_from": [
+            "Widow"
+        ],
+        "type": "Boots",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Iron Boots",
+        "requirements": "Level 10",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 2",
+            "Maximum stat: 6"
+        ],
+        "drops_from": [
+            "Deerstalker"
+        ],
+        "type": "Boots",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Heroic Boots",
+        "requirements": "Level 20",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 3",
+            "Maximum stat: 9"
+        ],
+        "drops_from": [
+            "Slime"
+        ],
+        "type": "Boots",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Copper Boots",
+        "requirements": "Level 20",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 3",
+            "Maximum stat: 9"
+        ],
+        "drops_from": [
+            "Felwalker"
+        ],
+        "type": "Boots",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Flaming Boots",
+        "requirements": "Level 20",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 1",
+            "Minumum stat: 3",
+            "Maximum stat: 9"
+        ],
+        "drops_from": [
+            "Firewyrm"
+        ],
+        "type": "Boots",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Plate Boots",
+        "requirements": "Level 30",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 4",
+            "Maximum stat: 12"
+        ],
+        "drops_from": [
+            "Imp Mage"
+        ],
+        "type": "Boots",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Sulphur Shoes",
+        "requirements": "Level 30",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 4",
+            "Maximum stat: 12"
+        ],
+        "drops_from": [
+            "Imp Ranger"
+        ],
+        "type": "Boots",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Tin Boots",
+        "requirements": "Level 30",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 4",
+            "Maximum stat: 12"
+        ],
+        "drops_from": [
+            "Imp"
+        ],
+        "type": "Boots",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Chain Boots",
+        "requirements": "Level 40",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 4",
+            "Minumum stat: 5",
+            "Maximum stat: 15"
+        ],
+        "drops_from": [
+            "Ice Slime"
+        ],
+        "type": "Boots",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Nernai Boots",
+        "requirements": "Level 40",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 5",
+            "Maximum stat: 15"
+        ],
+        "drops_from": [
+            "Minotaur"
+        ],
+        "type": "Boots",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Silver Boots",
+        "requirements": "Level 50",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 5",
+            "Minumum stat: 6",
+            "Maximum stat: 18"
+        ],
+        "drops_from": [
+            "Orc"
+        ],
+        "type": "Boots",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Caster Boots",
+        "requirements": "Level 50",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 2",
+            "Minumum stat: 6",
+            "Maximum stat: 18"
+        ],
+        "drops_from": [
+            "Behemoth"
+        ],
+        "type": "Boots",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Elven Boots",
+        "requirements": "Level 50",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 6",
+            "Maximum stat: 18"
+        ],
+        "drops_from": [
+            "Hellhound"
+        ],
+        "type": "Boots",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Platinum Boots",
+        "requirements": "Level 60",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 6",
+            "Minumum stat: 7",
+            "Maximum stat: 21"
+        ],
+        "drops_from": [
+            "Giant Wasp"
+        ],
+        "type": "Boots",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Indigo Sandals",
+        "requirements": "Level 60",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 7",
+            "Maximum stat: 21"
+        ],
+        "drops_from": [
+            "Giant WaspShadow"
+        ],
+        "type": "Boots",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Pearl Boots",
+        "requirements": "Level 60",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 4",
+            "Minumum stat: 7",
+            "Maximum stat: 21"
+        ],
+        "drops_from": [
+            "Orc Mage"
+        ],
+        "type": "Boots",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Emerald Boots",
+        "requirements": "Level 70",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 7",
+            "Minumum stat: 8",
+            "Maximum stat: 24"
+        ],
+        "drops_from": [
+            "Unobtainable"
+        ],
+        "type": "Boots",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Arnisium Boots",
+        "requirements": "Level 70",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 8",
+            "Maximum stat: 24"
+        ],
+        "drops_from": [
+            "Orc Berzerk"
+        ],
+        "type": "Boots",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Spiked Boots",
+        "requirements": "Level 70",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 4",
+            "Minumum stat: 8",
+            "Maximum stat: 24"
+        ],
+        "drops_from": [
+            "Necromancer"
+        ],
+        "type": "Boots",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Granite Boots",
+        "requirements": "Level 80",
+        "skill_type": "Melee",
+        "stats": [
+            "Armour: 8",
+            "Minumum stat: 9",
+            "Maximum stat: 27"
+        ],
+        "drops_from": [
+            "Unobtainable"
+        ],
+        "type": "Boots",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Crystal Boots",
+        "requirements": "Level 80",
+        "skill_type": "Magic",
+        "stats": [
+            "Armour: 3",
+            "Minumum stat: 9",
+            "Maximum stat: 27"
+        ],
+        "drops_from": [
+            "Unobtainable"
+        ],
+        "type": "Boots",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Sentinel Boots",
+        "requirements": "Level 80",
+        "skill_type": "Distance",
+        "stats": [
+            "Armour: 5",
+            "Minumum stat: 9",
+            "Maximum stat: 27"
+        ],
+        "drops_from": [
+            "Unobtainable"
+        ],
+        "type": "Boots",
+        "vocation": "Ranger"
+    }
+]

@@ -1,0 +1,1930 @@
+[
+    {
+        "name": "Granite Helmet",
+        "level_requirement": 80,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 8,
+            "maximum_stat": 27,
+            "minimum_stat": 9
+        },
+        "monsters": [
+            "Mana fury"
+        ],
+        "type": "Helmet",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Crystal Mask",
+        "level_requirement": 80,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 27,
+            "minimum_stat": 9
+        },
+        "monsters": [
+            "Frost fury"
+        ],
+        "type": "Helmet",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Sentinel Helmet",
+        "level_requirement": 80,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 5,
+            "maximum_stat": 27,
+            "minimum_stat": 9
+        },
+        "monsters": [
+            "?"
+        ],
+        "type": "Helmet",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Granite Gloves",
+        "level_requirement": 80,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 8,
+            "maximum_stat": 27,
+            "minimum_stat": 9
+        },
+        "monsters": [
+            "?"
+        ],
+        "type": "Gloves",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Crystal Gloves",
+        "level_requirement": 80,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 27,
+            "minimum_stat": 9
+        },
+        "monsters": [
+            "?"
+        ],
+        "type": "Gloves",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Sentinel Gloves",
+        "level_requirement": 80,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 5,
+            "maximum_stat": 27,
+            "minimum_stat": 9
+        },
+        "monsters": [
+            "?"
+        ],
+        "type": "Gloves",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Granite Armour",
+        "level_requirement": 80,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 8,
+            "maximum_stat": 27,
+            "minimum_stat": 9
+        },
+        "monsters": [
+            "?"
+        ],
+        "type": "Chest",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Crystal Cape",
+        "level_requirement": 80,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 27,
+            "minimum_stat": 9
+        },
+        "monsters": [
+            "?"
+        ],
+        "type": "Chest",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Sentinel Armour",
+        "level_requirement": 80,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 5,
+            "maximum_stat": 27,
+            "minimum_stat": 9
+        },
+        "monsters": [
+            "?"
+        ],
+        "type": "Chest",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Granite Boots",
+        "level_requirement": 80,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 8,
+            "maximum_stat": 27,
+            "minimum_stat": 9
+        },
+        "monsters": [
+            "?"
+        ],
+        "type": "Boots",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Crystal Boots",
+        "level_requirement": 80,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 27,
+            "minimum_stat": 9
+        },
+        "monsters": [
+            "?"
+        ],
+        "type": "Boots",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Sentinel Boots",
+        "level_requirement": 80,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 5,
+            "maximum_stat": 27,
+            "minimum_stat": 9
+        },
+        "monsters": [
+            "?"
+        ],
+        "type": "Boots",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Amber Ring",
+        "level_requirement": 70,
+        "skill_type": "",
+        "stats": {
+            "armour": 0,
+            "maximum_stat": 18,
+            "minimum_stat": 9
+        },
+        "monsters": [
+            "Hero"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Hellborn Amulet",
+        "level_requirement": 70,
+        "skill_type": "",
+        "stats": {
+            "armour": 0,
+            "maximum_stat": 16,
+            "minimum_stat": 8
+        },
+        "monsters": [
+            "Mana fury"
+        ],
+        "type": "Necklace",
+        "vocation": ""
+    },
+    {
+        "name": "Emerald Helmet",
+        "level_requirement": 70,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 7,
+            "maximum_stat": 24,
+            "minimum_stat": 8
+        },
+        "monsters": [
+            "Priestess"
+        ],
+        "type": "Helmet",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Arnisium Hat",
+        "level_requirement": 70,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 24,
+            "minimum_stat": 8
+        },
+        "monsters": [
+            "Slimespitter"
+        ],
+        "type": "Helmet",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Spiked Helmet",
+        "level_requirement": 70,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 4,
+            "maximum_stat": 24,
+            "minimum_stat": 8
+        },
+        "monsters": [
+            "Bloodseeker"
+        ],
+        "type": "Helmet",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Emerald Gloves",
+        "level_requirement": 70,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 7,
+            "maximum_stat": 24,
+            "minimum_stat": 8
+        },
+        "monsters": [
+            "Bloodseeker"
+        ],
+        "type": "Gloves",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Arnisium Gloves",
+        "level_requirement": 70,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 24,
+            "minimum_stat": 8
+        },
+        "monsters": [
+            "Shambler"
+        ],
+        "type": "Gloves",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Spiked Gloves",
+        "level_requirement": 70,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 4,
+            "maximum_stat": 24,
+            "minimum_stat": 8
+        },
+        "monsters": [
+            "Slimespitter"
+        ],
+        "type": "Gloves",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Emerald Armour",
+        "level_requirement": 70,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 7,
+            "maximum_stat": 24,
+            "minimum_stat": 8
+        },
+        "monsters": [
+            "Shambler"
+        ],
+        "type": "Chest",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Arnisium Vest",
+        "level_requirement": 70,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 24,
+            "minimum_stat": 8
+        },
+        "monsters": [
+            "Unobtainable"
+        ],
+        "type": "Chest",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Spiked Armour",
+        "level_requirement": 70,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 4,
+            "maximum_stat": 24,
+            "minimum_stat": 8
+        },
+        "monsters": [
+            "Orc Berzerk"
+        ],
+        "type": "Chest",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Emerald Boots",
+        "level_requirement": 70,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 7,
+            "maximum_stat": 24,
+            "minimum_stat": 8
+        },
+        "monsters": [
+            "?"
+        ],
+        "type": "Boots",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Arnisium Boots",
+        "level_requirement": 70,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 24,
+            "minimum_stat": 8
+        },
+        "monsters": [
+            "Orc Berzerk"
+        ],
+        "type": "Boots",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Spiked Boots",
+        "level_requirement": 70,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 4,
+            "maximum_stat": 24,
+            "minimum_stat": 8
+        },
+        "monsters": [
+            "Necromancer"
+        ],
+        "type": "Boots",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Mana Stone",
+        "level_requirement": 60,
+        "skill_type": "",
+        "stats": {
+            "armour": 0,
+            "maximum_stat": 16,
+            "minimum_stat": 8
+        },
+        "monsters": [
+            "Orc Warrior"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Demon Tooth",
+        "level_requirement": 60,
+        "skill_type": "",
+        "stats": {
+            "armour": 0,
+            "maximum_stat": 14,
+            "minimum_stat": 7
+        },
+        "monsters": [
+            "Bandit"
+        ],
+        "type": "Necklace",
+        "vocation": ""
+    },
+    {
+        "name": "Platinum Helmet",
+        "level_requirement": 60,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 6,
+            "maximum_stat": 21,
+            "minimum_stat": 7
+        },
+        "monsters": [
+            "Wild Soldier"
+        ],
+        "type": "Helmet",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Indigo Hat",
+        "level_requirement": 60,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 21,
+            "minimum_stat": 7
+        },
+        "monsters": [
+            "Bandit"
+        ],
+        "type": "Helmet",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Pearl Helmet",
+        "level_requirement": 60,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 4,
+            "maximum_stat": 21,
+            "minimum_stat": 7
+        },
+        "monsters": [
+            "Orc Worker"
+        ],
+        "type": "Helmet",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Platinum Gloves",
+        "level_requirement": 60,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 6,
+            "maximum_stat": 21,
+            "minimum_stat": 7
+        },
+        "monsters": [
+            "Orc Worker"
+        ],
+        "type": "Gloves",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Indigo Gloves",
+        "level_requirement": 60,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 21,
+            "minimum_stat": 7
+        },
+        "monsters": [
+            "?"
+        ],
+        "type": "Gloves",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Pearl Gloves",
+        "level_requirement": 60,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 4,
+            "maximum_stat": 21,
+            "minimum_stat": 7
+        },
+        "monsters": [
+            "Thief"
+        ],
+        "type": "Gloves",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Platinum Armour",
+        "level_requirement": 60,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 6,
+            "maximum_stat": 21,
+            "minimum_stat": 7
+        },
+        "monsters": [
+            "Shadow"
+        ],
+        "type": "Chest",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Indigo Cape",
+        "level_requirement": 60,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 21,
+            "minimum_stat": 7
+        },
+        "monsters": [
+            "Hunter"
+        ],
+        "type": "Chest",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Pearl Armour",
+        "level_requirement": 60,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 4,
+            "maximum_stat": 21,
+            "minimum_stat": 7
+        },
+        "monsters": [
+            "Shadow"
+        ],
+        "type": "Chest",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Platinum Boots",
+        "level_requirement": 60,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 6,
+            "maximum_stat": 21,
+            "minimum_stat": 7
+        },
+        "monsters": [
+            "Giant Wasp"
+        ],
+        "type": "Boots",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Indigo Sandals",
+        "level_requirement": 60,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 21,
+            "minimum_stat": 7
+        },
+        "monsters": [
+            "Giant Wasp",
+            "Shadow"
+        ],
+        "type": "Boots",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Pearl Boots",
+        "level_requirement": 60,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 4,
+            "maximum_stat": 21,
+            "minimum_stat": 7
+        },
+        "monsters": [
+            "Orc Mage"
+        ],
+        "type": "Boots",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Crystal Ring",
+        "level_requirement": 50,
+        "skill_type": "",
+        "stats": {
+            "armour": 0,
+            "maximum_stat": 14,
+            "minimum_stat": 7
+        },
+        "monsters": [
+            "Orc"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Power Amulet",
+        "level_requirement": 50,
+        "skill_type": "",
+        "stats": {
+            "armour": 0,
+            "maximum_stat": 12,
+            "minimum_stat": 6
+        },
+        "monsters": [
+            "Hellhound"
+        ],
+        "type": "Necklace",
+        "vocation": ""
+    },
+    {
+        "name": "Silver Helmet",
+        "level_requirement": 50,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 5,
+            "maximum_stat": 18,
+            "minimum_stat": 6
+        },
+        "monsters": [
+            "Sorcerer"
+        ],
+        "type": "Helmet",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Wizard Hood",
+        "level_requirement": 50,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 18,
+            "minimum_stat": 6
+        },
+        "monsters": [
+            "Revenant"
+        ],
+        "type": "Helmet",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Elven Hat",
+        "level_requirement": 50,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 18,
+            "minimum_stat": 6
+        },
+        "monsters": [
+            "Revenant"
+        ],
+        "type": "Helmet",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Silver Gloves",
+        "level_requirement": 50,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 5,
+            "maximum_stat": 18,
+            "minimum_stat": 6
+        },
+        "monsters": [
+            "Hellhound"
+        ],
+        "type": "Gloves",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Caster Gloves",
+        "level_requirement": 50,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 18,
+            "minimum_stat": 6
+        },
+        "monsters": [
+            "Orc"
+        ],
+        "type": "Gloves",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Elven Gloves",
+        "level_requirement": 50,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 18,
+            "minimum_stat": 6
+        },
+        "monsters": [
+            "Sorcerer"
+        ],
+        "type": "Gloves",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Silver Armour",
+        "level_requirement": 50,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 5,
+            "maximum_stat": 18,
+            "minimum_stat": 6
+        },
+        "monsters": [
+            "Revenant"
+        ],
+        "type": "Chest",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Caster Robe",
+        "level_requirement": 50,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 18,
+            "minimum_stat": 6
+        },
+        "monsters": [
+            "Hellhound"
+        ],
+        "type": "Chest",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Elven Shirt",
+        "level_requirement": 50,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 18,
+            "minimum_stat": 6
+        },
+        "monsters": [
+            "Behemoth"
+        ],
+        "type": "Chest",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Silver Boots",
+        "level_requirement": 50,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 5,
+            "maximum_stat": 18,
+            "minimum_stat": 6
+        },
+        "monsters": [
+            "Orc"
+        ],
+        "type": "Boots",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Caster Boots",
+        "level_requirement": 50,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 18,
+            "minimum_stat": 6
+        },
+        "monsters": [
+            "Behemoth"
+        ],
+        "type": "Boots",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Elven Boots",
+        "level_requirement": 50,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 18,
+            "minimum_stat": 6
+        },
+        "monsters": [
+            "Hellhound"
+        ],
+        "type": "Boots",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Elven Ring",
+        "level_requirement": 40,
+        "skill_type": "",
+        "stats": {
+            "armour": 0,
+            "maximum_stat": 12,
+            "minimum_stat": 6
+        },
+        "monsters": [
+            "Ghost"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Heroic Amulet",
+        "level_requirement": 40,
+        "skill_type": "",
+        "stats": {
+            "armour": 0,
+            "maximum_stat": 10,
+            "minimum_stat": 5
+        },
+        "monsters": [
+            "Ice Slime"
+        ],
+        "type": "Necklace",
+        "vocation": ""
+    },
+    {
+        "name": "Chain Helmet",
+        "level_requirement": 40,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 4,
+            "maximum_stat": 15,
+            "minimum_stat": 5
+        },
+        "monsters": [
+            "Ghost"
+        ],
+        "type": "Helmet",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Nernai Hat",
+        "level_requirement": 40,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 15,
+            "minimum_stat": 5
+        },
+        "monsters": [
+            "Fire Slime",
+            "Giant Slug"
+        ],
+        "type": "Helmet",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Soldier Helmet",
+        "level_requirement": 40,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 15,
+            "minimum_stat": 5
+        },
+        "monsters": [
+            "Fire Slime"
+        ],
+        "type": "Helmet",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Chain Gloves",
+        "level_requirement": 40,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 4,
+            "maximum_stat": 15,
+            "minimum_stat": 5
+        },
+        "monsters": [
+            "Fire Slime"
+        ],
+        "type": "Gloves",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Nernai Gloves",
+        "level_requirement": 40,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 15,
+            "minimum_stat": 5
+        },
+        "monsters": [
+            "Ice Slime"
+        ],
+        "type": "Gloves",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Chain Armour",
+        "level_requirement": 40,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 4,
+            "maximum_stat": 15,
+            "minimum_stat": 5
+        },
+        "monsters": [
+            "MinotaurGiant Slug"
+        ],
+        "type": "Chest",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Nernai Vest",
+        "level_requirement": 40,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 15,
+            "minimum_stat": 5
+        },
+        "monsters": [
+            "Ghost"
+        ],
+        "type": "Chest",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Soldier Armour",
+        "level_requirement": 40,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 15,
+            "minimum_stat": 5
+        },
+        "monsters": [
+            "Harbinger"
+        ],
+        "type": "Chest",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Chain Boots",
+        "level_requirement": 40,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 4,
+            "maximum_stat": 15,
+            "minimum_stat": 5
+        },
+        "monsters": [
+            "Ice Slime"
+        ],
+        "type": "Boots",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Nernai Boots",
+        "level_requirement": 40,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 15,
+            "minimum_stat": 5
+        },
+        "monsters": [
+            "Minotaur"
+        ],
+        "type": "Boots",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Burning Ring",
+        "level_requirement": 30,
+        "skill_type": "",
+        "stats": {
+            "armour": 0,
+            "maximum_stat": 10,
+            "minimum_stat": 5
+        },
+        "monsters": [
+            "Harbinger"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Jeweled Necklace",
+        "level_requirement": 30,
+        "skill_type": "",
+        "stats": {
+            "armour": 0,
+            "maximum_stat": 8,
+            "minimum_stat": 4
+        },
+        "monsters": [
+            "Imp Mage"
+        ],
+        "type": "Necklace",
+        "vocation": ""
+    },
+    {
+        "name": "Plate Helmet",
+        "level_requirement": 30,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 12,
+            "minimum_stat": 4
+        },
+        "monsters": [
+            "Imp Ranger"
+        ],
+        "type": "Helmet",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Sulphur Mask",
+        "level_requirement": 30,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 12,
+            "minimum_stat": 4
+        },
+        "monsters": [
+            "Imp"
+        ],
+        "type": "Helmet",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Tin Helmet",
+        "level_requirement": 30,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 12,
+            "minimum_stat": 4
+        },
+        "monsters": [
+            "Imp Mage"
+        ],
+        "type": "Helmet",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Plate Gloves",
+        "level_requirement": 30,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 12,
+            "minimum_stat": 4
+        },
+        "monsters": [
+            "Imp"
+        ],
+        "type": "Gloves",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Sulphur Gloves",
+        "level_requirement": 30,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 12,
+            "minimum_stat": 4
+        },
+        "monsters": [
+            "Imp Knight"
+        ],
+        "type": "Gloves",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Tin Gloves",
+        "level_requirement": 30,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 12,
+            "minimum_stat": 4
+        },
+        "monsters": [
+            "Imp Knight"
+        ],
+        "type": "Gloves",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Plate Armour",
+        "level_requirement": 30,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 12,
+            "minimum_stat": 4
+        },
+        "monsters": [
+            "Imp Knight"
+        ],
+        "type": "Chest",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Sulphur Robe",
+        "level_requirement": 30,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 12,
+            "minimum_stat": 4
+        },
+        "monsters": [
+            "Imp Mage"
+        ],
+        "type": "Chest",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Tin Armour",
+        "level_requirement": 30,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 12,
+            "minimum_stat": 4
+        },
+        "monsters": [
+            "Imp Ranger"
+        ],
+        "type": "Chest",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Plate Boots",
+        "level_requirement": 30,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 3,
+            "maximum_stat": 12,
+            "minimum_stat": 4
+        },
+        "monsters": [
+            "Imp Mage"
+        ],
+        "type": "Boots",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Sulphur Shoes",
+        "level_requirement": 30,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 12,
+            "minimum_stat": 4
+        },
+        "monsters": [
+            "Imp Ranger"
+        ],
+        "type": "Boots",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Tin Boots",
+        "level_requirement": 30,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 12,
+            "minimum_stat": 4
+        },
+        "monsters": [
+            "Imp"
+        ],
+        "type": "Boots",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Gold Ring",
+        "level_requirement": 20,
+        "skill_type": "",
+        "stats": {
+            "armour": 0,
+            "maximum_stat": 8,
+            "minimum_stat": 4
+        },
+        "monsters": [
+            "Imp"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Dragon Necklace",
+        "level_requirement": 20,
+        "skill_type": "",
+        "stats": {
+            "armour": 0,
+            "maximum_stat": 6,
+            "minimum_stat": 3
+        },
+        "monsters": [
+            "Slime"
+        ],
+        "type": "Necklace",
+        "vocation": ""
+    },
+    {
+        "name": "Copper Helmet",
+        "level_requirement": 20,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 9,
+            "minimum_stat": 3
+        },
+        "monsters": [
+            "Firewyrm"
+        ],
+        "type": "Helmet",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Flaming Hood",
+        "level_requirement": 20,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 9,
+            "minimum_stat": 3
+        },
+        "monsters": [
+            "Defiler"
+        ],
+        "type": "Helmet",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Heroic Hat",
+        "level_requirement": 20,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 9,
+            "minimum_stat": 3
+        },
+        "monsters": [
+            "Defiler"
+        ],
+        "type": "Helmet",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Copper Gloves",
+        "level_requirement": 20,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 9,
+            "minimum_stat": 3
+        },
+        "monsters": [
+            "Defiler"
+        ],
+        "type": "Gloves",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Flaming Gloves",
+        "level_requirement": 20,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 9,
+            "minimum_stat": 3
+        },
+        "monsters": [
+            "Slime"
+        ],
+        "type": "Gloves",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Heroic Gloves",
+        "level_requirement": 20,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 9,
+            "minimum_stat": 3
+        },
+        "monsters": [
+            "Felwalker"
+        ],
+        "type": "Gloves",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Copper Armour",
+        "level_requirement": 20,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 9,
+            "minimum_stat": 3
+        },
+        "monsters": [
+            "Slime"
+        ],
+        "type": "Chest",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Heroic Cloak",
+        "level_requirement": 20,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 9,
+            "minimum_stat": 3
+        },
+        "monsters": [
+            "Firewyrm"
+        ],
+        "type": "Chest",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Flaming Cape",
+        "level_requirement": 20,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 9,
+            "minimum_stat": 3
+        },
+        "monsters": [
+            "Felwalker"
+        ],
+        "type": "Chest",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Heroic Boots",
+        "level_requirement": 20,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 9,
+            "minimum_stat": 3
+        },
+        "monsters": [
+            "Slime"
+        ],
+        "type": "Boots",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Copper Boots",
+        "level_requirement": 20,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 9,
+            "minimum_stat": 3
+        },
+        "monsters": [
+            "Felwalker"
+        ],
+        "type": "Boots",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Flaming Boots",
+        "level_requirement": 20,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 9,
+            "minimum_stat": 3
+        },
+        "monsters": [
+            "Firewyrm"
+        ],
+        "type": "Boots",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Dragon Ring",
+        "level_requirement": 10,
+        "skill_type": "",
+        "stats": {
+            "armour": 0,
+            "maximum_stat": 6,
+            "minimum_stat": 3
+        },
+        "monsters": [
+            "Slime"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Ancient Necklace",
+        "level_requirement": 10,
+        "skill_type": "",
+        "stats": {
+            "armour": 0,
+            "maximum_stat": 4,
+            "minimum_stat": 2
+        },
+        "monsters": [
+            "Firewyrm"
+        ],
+        "type": "Necklace",
+        "vocation": ""
+    },
+    {
+        "name": "Iron Helmet",
+        "level_requirement": 10,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 6,
+            "minimum_stat": 2
+        },
+        "monsters": [
+            "Widow"
+        ],
+        "type": "Helmet",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Linothorax Helmet",
+        "level_requirement": 10,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 6,
+            "minimum_stat": 2
+        },
+        "monsters": [
+            "Spider"
+        ],
+        "type": "Helmet",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Traveller's Hat",
+        "level_requirement": 10,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 6,
+            "minimum_stat": 2
+        },
+        "monsters": [
+            "Cyclops"
+        ],
+        "type": "Helmet",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Traveller's Gloves",
+        "level_requirement": 10,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 6,
+            "minimum_stat": 2
+        },
+        "monsters": [
+            "Spider"
+        ],
+        "type": "Gloves",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Linothorax Gloves",
+        "level_requirement": 10,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 6,
+            "minimum_stat": 2
+        },
+        "monsters": [
+            "Cyclops"
+        ],
+        "type": "Gloves",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Iron Gloves",
+        "level_requirement": 10,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 6,
+            "minimum_stat": 2
+        },
+        "monsters": [
+            "Spider"
+        ],
+        "type": "Gloves",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Traveller's Gown",
+        "level_requirement": 10,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 6,
+            "minimum_stat": 2
+        },
+        "monsters": [
+            "Deerstalker"
+        ],
+        "type": "Chest",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Linothorax Chest",
+        "level_requirement": 10,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 6,
+            "minimum_stat": 2
+        },
+        "monsters": [
+            "Widow"
+        ],
+        "type": "Chest",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Iron Armour",
+        "level_requirement": 10,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 2,
+            "maximum_stat": 6,
+            "minimum_stat": 2
+        },
+        "monsters": [
+            "Cyclops"
+        ],
+        "type": "Chest",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Linothorax Boots",
+        "level_requirement": 10,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 6,
+            "minimum_stat": 2
+        },
+        "monsters": [
+            "Deerstalker"
+        ],
+        "type": "Boots",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Traveller's Boots",
+        "level_requirement": 10,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 6,
+            "minimum_stat": 2
+        },
+        "monsters": [
+            "Widow"
+        ],
+        "type": "Boots",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Iron Boots",
+        "level_requirement": 10,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 6,
+            "minimum_stat": 2
+        },
+        "monsters": [
+            "Deerstalker"
+        ],
+        "type": "Boots",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Plain Ring",
+        "level_requirement": 5,
+        "skill_type": "",
+        "stats": {
+            "armour": 0,
+            "maximum_stat": 4,
+            "minimum_stat": 2
+        },
+        "monsters": [
+            "Cyclops",
+            "Spider",
+            "Deerstalker"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Tarnished Necklace",
+        "level_requirement": 5,
+        "skill_type": "",
+        "stats": {
+            "armour": 0,
+            "maximum_stat": 2,
+            "minimum_stat": 1
+        },
+        "monsters": [
+            "Troll Warlord"
+        ],
+        "type": "Necklace",
+        "vocation": ""
+    },
+    {
+        "name": "Sturdy Helmet",
+        "level_requirement": 5,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 3,
+            "minimum_stat": 1
+        },
+        "monsters": [
+            "Troll Knight"
+        ],
+        "type": "Helmet",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Ranger Cap",
+        "level_requirement": 5,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 3,
+            "minimum_stat": 1
+        },
+        "monsters": [
+            "Troll Ranger"
+        ],
+        "type": "Helmet",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Novice Cap",
+        "level_requirement": 5,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 3,
+            "minimum_stat": 1
+        },
+        "monsters": [
+            "Troll Mage",
+            "Troll Warlord"
+        ],
+        "type": "Helmet",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Ragged Gloves",
+        "level_requirement": 5,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 3,
+            "minimum_stat": 1
+        },
+        "monsters": [
+            "Troll Mage"
+        ],
+        "type": "Gloves",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Sturdy Gloves",
+        "level_requirement": 5,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 3,
+            "minimum_stat": 1
+        },
+        "monsters": [
+            "Troll Knight"
+        ],
+        "type": "Gloves",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Ranger Gloves",
+        "level_requirement": 5,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 3,
+            "minimum_stat": 1
+        },
+        "monsters": [
+            "Troll Ranger"
+        ],
+        "type": "Gloves",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Ragged Cloak",
+        "level_requirement": 5,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 3,
+            "minimum_stat": 1
+        },
+        "monsters": [
+            "Troll Mage"
+        ],
+        "type": "Chest",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Leather Vest",
+        "level_requirement": 5,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 3,
+            "minimum_stat": 1
+        },
+        "monsters": [
+            "Troll Ranger"
+        ],
+        "type": "Chest",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Belted Armour",
+        "level_requirement": 5,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 3,
+            "minimum_stat": 1
+        },
+        "monsters": [
+            "Troll Knight"
+        ],
+        "type": "Chest",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Sturdy Boots",
+        "level_requirement": 5,
+        "skill_type": "Melee",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 3,
+            "minimum_stat": 1
+        },
+        "monsters": [
+            "Troll Knight"
+        ],
+        "type": "Boots",
+        "vocation": "Knight"
+    },
+    {
+        "name": "Steady Boots",
+        "level_requirement": 5,
+        "skill_type": "Distance",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 3,
+            "minimum_stat": 1
+        },
+        "monsters": [
+            "Troll Ranger"
+        ],
+        "type": "Boots",
+        "vocation": "Ranger"
+    },
+    {
+        "name": "Ragged Shoes",
+        "level_requirement": 5,
+        "skill_type": "Magic",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 3,
+            "minimum_stat": 1
+        },
+        "monsters": [
+            "Troll Mage"
+        ],
+        "type": "Boots",
+        "vocation": "Mage"
+    },
+    {
+        "name": "Broken Ring",
+        "level_requirement": 0,
+        "skill_type": "",
+        "stats": {
+            "armour": 0,
+            "maximum_stat": 2,
+            "minimum_stat": 1
+        },
+        "monsters": [
+            "Troll Mage",
+            "Troll Ranger",
+            "Troll Knight"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Liam's Blessing",
+        "level_requirement": 0,
+        "skill_type": "",
+        "stats": {
+            "armour": 0,
+            "maximum_stat": 0,
+            "minimum_stat": 0
+        },
+        "monsters": [
+            "Das Bug"
+        ],
+        "type": "Ring",
+        "vocation": ""
+    },
+    {
+        "name": "Bandana",
+        "level_requirement": 0,
+        "skill_type": "",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 0,
+            "minimum_stat": 0
+        },
+        "monsters": [
+            "Troll",
+            "Troll Mage"
+        ],
+        "type": "Helmet",
+        "vocation": ""
+    },
+    {
+        "name": "Old Gloves",
+        "level_requirement": 0,
+        "skill_type": "",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 0,
+            "minimum_stat": 0
+        },
+        "monsters": [
+            "Troll"
+        ],
+        "type": "Gloves",
+        "vocation": ""
+    },
+    {
+        "name": "Cloth Shirt",
+        "level_requirement": 0,
+        "skill_type": "",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 0,
+            "minimum_stat": 0
+        },
+        "monsters": [
+            "TrollTroll Warlord"
+        ],
+        "type": "Chest",
+        "vocation": ""
+    },
+    {
+        "name": "Sandals",
+        "level_requirement": 0,
+        "skill_type": "",
+        "stats": {
+            "armour": 1,
+            "maximum_stat": 0,
+            "minimum_stat": 0
+        },
+        "monsters": [
+            "Troll"
+        ],
+        "type": "Boots",
+        "vocation": ""
+    }
+]
